@@ -6,10 +6,6 @@ public class CalculatorTest {
 
     private Calculator calculator = new Calculator();
 
-    @BeforeEach
-    public void setup() {
-
-    }
 
     @Test
     public void additionTest() {
