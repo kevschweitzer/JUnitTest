@@ -45,7 +45,7 @@ public class CalculatorTest {
 
     @Test
     public void esParTest() {
-        boolean result = calculator.esPar(4);
+        boolean result = calculator.esPar(3);
         assertTrue(result);
     }
 
